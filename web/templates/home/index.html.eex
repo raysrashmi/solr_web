@@ -1,0 +1,20 @@
+<div>
+  <a>Pressreleases: <%= pressrelease_count %></a>
+</div>
+<div>
+News: <%= news_count %>
+</div>
+<div>
+BlogPost: <%= blog_post_count %>
+</div>
+<div>
+Image: <%= image_count %>
+</div>
+
+<div>
+Video: <%= video_count %>
+</div>
+
+<div>
+contact_person: <%= contact_person_count %>
+</div>
